@@ -1,0 +1,14 @@
+#titlediv {
+  margin-bottom: 15px;
+}
+
+#container {
+  padding: 20px;
+}
+
+#show-img {
+  display: none;
+  width: 150px;
+  height: 150px;
+  margin-top: 15px;
+}
